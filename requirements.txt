@@ -1,0 +1,15 @@
+langchain
+langchain-huggingface
+langchain-groq
+langchain-qdrant
+huggingface_hub
+qdrant-client
+datasets
+tqdm
+evaluate
+nltk
+rouge
+numpy
+streamlit
+streamlit-chat
+pypdf
