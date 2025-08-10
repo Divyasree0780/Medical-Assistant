@@ -36,7 +36,7 @@ This project implements a **Medical Assistant Chatbot** powered by **LLaMA 3-70B
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Divyasree0780/medical-assistant.git
+git clone https://github.com/Divyasree0780/Medical-Assistant.git
 cd medical-chatbot-rag
 ```
 
@@ -135,7 +135,7 @@ This project uses:
 
 ## 📜 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Divyasree Harikrishnan
 
 ---
 
